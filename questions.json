@@ -2,15 +2,18 @@
   "kysymykset": [
     {
       "kysymys": "Montako maata Euroopassa on?",
-      "vaihtoehdot": ["27", "44", "50"]
+      "vaihtoehdot": ["27", "44", "50"],
+      "oikea_vastaus": "27"
     },
     {
       "kysymys": "Mikä on Suomen pääkaupunki?",
-      "vaihtoehdot": ["Helsinki", "Tukholma", "Oslo"]
+      "vaihtoehdot": ["Helsinki", "Tukholma", "Oslo"],
+      "oikea_vastaus": "Helsinki"
     },
     {
       "kysymys": "Mikä on maailman suurin valtameri?",
-      "vaihtoehdot": ["Tyynimeri", "Atlantin valtameri", "Intian valtameri"]
+      "vaihtoehdot": ["Tyynimeri", "Atlantin valtameri", "Intian valtameri"],
+      "oikea_vastaus": "Tyynimeri"
     }
   ]
 }
